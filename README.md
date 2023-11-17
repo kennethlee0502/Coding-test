@@ -14,7 +14,8 @@ This Ruby on Rails application introduces a basic soft delete functionality for 
 
 ### Setup
 
-1. Clone the repository (if applicable):
+1. Clone the repository:
+   https://github.com/kennethlee0502/Coding-test
 
 2. Install dependencies:
    bundle install
